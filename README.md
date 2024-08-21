@@ -11,7 +11,9 @@ The Video Summarization Chatbot is a tool designed to help users quickly underst
 ## Technologies Used
 - **Frontend**: SwiftUI for iOS application development.
 - **Backend**: Flask to handle backend API services.
-- **APIs**: Uses the YouTube API for accessing and processing video content.
+- **APIs**: 
+OpenAI APIs: Integrated in the Swift network layer for advanced AI capabilities.
+YouTube and AssemblyAI APIs: Written in Python Flask service for video processing and get transcript.
 
 ## Getting Started
 
